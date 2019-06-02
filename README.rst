@@ -1,5 +1,12 @@
 .. -*- rst -*-
 
+this is a merge of two clones of the official picamera repo by waveform80:
+
+lens-shading clone by rwb27 https://github.com/rwb27/picamera
+mp4 clone by LizardM4 https://github.com/LizardM4/picamera/tree/mp4
+
+official repo by waveform80 https://github.com/waveform80/picamera
+
 ========
 picamera
 ========
